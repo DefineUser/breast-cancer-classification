@@ -7,7 +7,7 @@ This project aims to evaluate and compare the performance of various machine lea
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Installation](#installation)s
+- [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
 - [Evaluation](#evaluation)
