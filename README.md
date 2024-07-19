@@ -29,8 +29,7 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 │   ├── data_preparation.py       # Data preparation script
 │   ├── train_models.py           # Model training script
 │   ├── evaluate_models.py        # Model evaluation script
-├── output
-│   ├── breast_cancer_analysis.html   # Generated HTML report
+├── breast_cancer_analysis.html   # Generated HTML report
 ├── README.md
 ├── requirements.txt
 ```
